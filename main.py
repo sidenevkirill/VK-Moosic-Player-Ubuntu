@@ -11,7 +11,7 @@ from ui import VKMusicApp
 
 def main():
     """Главная функция"""
-    print("🎵 VK Music Player для Ubuntu")
+    print("🎵 VK Moosic Player для Ubuntu")
     print("=" * 40)
     
     if not check_dependencies():
@@ -22,3 +22,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
