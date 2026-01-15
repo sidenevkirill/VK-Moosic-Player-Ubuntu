@@ -8,7 +8,7 @@
 ### 📱 Другие проекты
 - [VK-Moosic-Player-Windows](https://github.com/sidenevkirill/VK-Moosic-Player-Destkop) - для Windows
 - [VK-Moosic-Player-Console](https://github.com/sidenevkirill/VK-Moosic-Player-Console) - для Console
-- [VK-Moosic-Player-Android](https://github.com/sidenevkirill/VK-Moosic-Player-Android) - для Android
+- [VK-Moosic-Player-Android](https://github.com/sidenevkirill/VKMPAndroid) - для Android
 - [VK-Moosic-Player-Bot](https://github.com/sidenevkirill/VK-Moosic-Player-Bot) - Бот для Telegram
 
 ## ❤️ Поддержать проект
